@@ -1,0 +1,19 @@
+symbol,company,date,order_type,quantity,price,commission,broker
+AMZN,"Amazon.com, Inc.",8/7/18,buy,1,1854.53,6.95,ETRADE
+FB,"Facebook, Inc.",8/7/18,buy,16,186.59,6.95,ETRADE
+LOGM,LogMeIn Inc,8/7/18,buy,6,84.55,6.95,ETRADE
+BEAT,BioTelemetry Inc,8/7/18,buy,9,57.45,6.95,ETRADE
+WTI,"W&T Offshore, Inc.",1/8/19,buy,90,5.29,6.95,ETRADE
+HBMD,Howard Bancorp Inc,2/4/19,buy,20,13.49,6.95,ETRADE
+LOGM,LogMeIn Inc,2/15/19,buy,4,81.83, $-   ,Robinhood
+LOGM,LogMeIn Inc,2/15/19,buy,1,81.48, $-   ,Robinhood
+LOGM,LogMeIn Inc,2/15/19,buy,2,81.85, $-   ,Robinhood
+HBMD,Howard Bancorp Inc,2/21/19,sell,20,12.63,6.95,ETRADE
+BEAT,BioTelemetry Inc,2/22/19,sell,9,65.73,6.95,ETRADE
+BEAT,BioTelemetry Inc,2/22/19,buy,5,67.44, $-   ,Robinhood
+BEAT,BioTelemetry Inc,3/1/19,buy,1,73.77, $-   ,Robinhood
+BEAT,BioTelemetry Inc,3/4/19,buy,2,69.97, $-   ,Robinhood
+BEAT,BioTelemetry Inc,3/4/19,buy,1,69.18, $-   ,Robinhood
+BEAT,BioTelemetry Inc,3/4/19,buy,1,68.98, $-   ,Robinhood
+FB,"Facebook, Inc.",8/7/18,sell,5,190,6.95,ETRADE
+,,,,,,,
