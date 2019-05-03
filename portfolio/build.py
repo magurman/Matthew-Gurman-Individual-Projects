@@ -117,5 +117,3 @@ def main():
     
 if __name__ == "__main__":
    main()
-
-#FilePath: /Users/mattgurman/Projects/python/portfolio/portfolio.csv
